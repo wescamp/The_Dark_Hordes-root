@@ -3,14 +3,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-04 17:58+0100\n"
-"PO-Revision-Date: 2005-08-25 19:54+0200\n"
-"Last-Translator: tephlon\n"
+"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11.1\n"
 
 #: data/campaigns/The_Dark_Hordes.cfg:9
 msgid "The Dark Hordes (Part 1)"
@@ -37,11 +38,10 @@ msgid "Dark Lord"
 msgstr "Mörkrets furste"
 
 #: data/campaigns/The_Dark_Hordes.cfg:17
-#, fuzzy
 msgid ""
 "Lead fugitive dark sorcerer Gwiti Ha'atel to mastery of the undead hordes."
 msgstr ""
-"Led nekromantikern Gwiti Ha'atel i hans flykt till bemästrandet av de "
+"Led mörkermagikern Gwiti Ha'atel i hans flykt till bemästrandet av de "
 "vandöda horderna."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/A_New_Chance.cfg:4
@@ -437,10 +437,9 @@ msgid "Oh no. The orcs seem to have recruited the undead to their side."
 msgstr "Åh nej. Det verkar som om orcherna har rekryterat vandöda."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
-#, fuzzy
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
-"Tusan också! Hur i hela friden har alverna lyckats få en nekromantiker att "
+"Tusan också! Hur i hela friden har alverna lyckats få en mörkermagiker att "
 "kämpa vid sin sida?"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
@@ -479,9 +478,8 @@ msgid "I die a terrible death... not knowing why."
 msgstr "Jag dör en fasansfull död... Och jag vet inte ens varför."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
-#, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr "Förbannelse över den där nekromantikern! Varför skulle han komma hit?!"
+msgstr "Förbannelse över den där mörkermagikern! Varför skulle han komma hit?!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
 msgid ""
@@ -491,12 +489,11 @@ msgstr ""
 "bov alltid gör!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:237
-#, fuzzy
 msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
 msgstr ""
-"Herre, dina misstankar var korrekta. Det finns verkligen en nekromantiker i "
+"Herre, dina misstankar var korrekta. Det finns verkligen en mörkermagiker i "
 "den här delen av landet!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
@@ -651,9 +648,8 @@ msgstr ""
 "att invadera Wesnoth."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
-#, fuzzy
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
-msgstr "Det kommer en nekromantiker! Kan det vara densamme som vi förvisade?"
+msgstr "Det kommer en mörkermagiker! Kan det vara densamme som vi förvisade?"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -707,9 +703,8 @@ msgid "Haha! I have gained entry to the tower!"
 msgstr "Haha! Jag har tagit mig in i tornet!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:210
-#, fuzzy
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Förbannad vare den vidrige nekromantikern!"
+msgstr "Förbannad vare den vidrige mörkermagikern!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:4
 msgid "The Skull of Agarash"
@@ -910,7 +905,6 @@ msgstr ""
 "att slåss vid deras sida."
 
 #: data/campaigns/The_Dark_Hordes/utils/intro.cfg:14
-#, fuzzy
 msgid ""
 "However, not only was this forbidden, but rash as well. The cavalry meant to "
 "come as reinforcements instead clashed with the undead legions, and so the "
@@ -920,7 +914,7 @@ msgstr ""
 "Men detta var inte blott förbjudet, utan även ogenomtänkt. Kavalleriet som "
 "skulle undsätta trupperna drabbade samman med de vandöda legionerna, och "
 "slaget, som annars skulle ha vunnits, förlorades på grund av dessa "
-"nekromantikers ingripande."
+"mörkermagikers ingripande."
 
 #: data/campaigns/The_Dark_Hordes/utils/intro.cfg:23
 msgid ""
@@ -941,9 +935,3 @@ msgstr ""
 "Men Ödet ville annorlunda. Skeppet råkade ut för en storm och föll i bitar; "
 "bröderna blev åtskilda och spolades upp på land. Detta var upprinnelsen till "
 "De mörka horderna."
-
-#~ msgid "Susanne"
-#~ msgstr "Susanne"
-
-#~ msgid "Congratulations! All your revenants survived."
-#~ msgstr "Gratulerar! Alla dina draugar överlevde."
