@@ -1,23 +1,25 @@
+# translation of cs.po to Czech
 # Czech translations for Battle for Wesnoth package.
 # Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
 # Copyright (C) 2004 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-# Czech Wesnoth translation team, Yeti <yeti@physics.muni.cz> et al, 2004.
 #
+# Czech Wesnoth translation team, Yeti <yeti@physics.muni.cz> et al, 2004.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: Battle for Wesnoth 0.8.4-CVS\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-04 17:58+0100\n"
-"PO-Revision-Date: 2005-09-01 15:17+0100\n"
-"Last-Translator: Vitkom <vitkom@seznam.cz>\n"
-"Language-Team: Czech\n"
+"PO-Revision-Date: 2006-04-04 11:40+0200\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Bookmarks: 138,141,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: data/campaigns/The_Dark_Hordes.cfg:9
 msgid "The Dark Hordes (Part 1)"
@@ -44,11 +46,8 @@ msgid "Dark Lord"
 msgstr "Temný pán"
 
 #: data/campaigns/The_Dark_Hordes.cfg:17
-#, fuzzy
-msgid ""
-"Lead fugitive dark sorcerer Gwiti Ha'atel to mastery of the undead hordes."
-msgstr ""
-"Pomoz uprchlému nekromantovi Gwiti Ha'atelovi k vládě nad nemrtvými hordami."
+msgid "Lead fugitive dark sorcerer Gwiti Ha'atel to mastery of the undead hordes."
+msgstr "Pomoz uprchlému černokněžníkovi Gwiti Ha'atelovi k vládě nad nemrtvými hordami."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/A_New_Chance.cfg:4
 msgid "A New Chance"
@@ -97,7 +96,7 @@ msgstr "Grakarat"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/A_New_Chance.cfg:90
 msgid "Rek Iceheart"
-msgstr "Rek Iceheart"
+msgstr "Rek Ledové Srdce"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/A_New_Chance.cfg:102
 msgid "Gabtur"
@@ -113,7 +112,7 @@ msgstr ""
 
 #: data/campaigns/The_Dark_Hordes/scenarios/A_New_Chance.cfg:148
 msgid "Noooo! Not now, not when I have escaped!"
-msgstr "Neeeee! Ne teď, potom, co jsem uprchnul!"
+msgstr "Neeeee! Ne teď, potom, co jsem uprchl!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/A_New_Chance.cfg:162
 msgid "Argh! I die!"
@@ -129,7 +128,7 @@ msgstr "Bratr proti bratrovi"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:31
 msgid "Defeat your brother Nati Ha'atel"
-msgstr "Poraž svého bratra Nati Ha'atela"
+msgstr "Poraz svého bratra Nati Ha'atela"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:62
 msgid "Nati Ha'atel"
@@ -198,8 +197,7 @@ msgid "It is over. I am doomed."
 msgstr "Je po všem. Jsem ztracen."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:139
-msgid ""
-"I...have failed to win this battle. I am defeated. I will not believe it."
+msgid "I...have failed to win this battle. I am defeated. I will not believe it."
 msgstr ""
 "Já... Zklamal jsem. Nepodařilo se mi vyhrát bitvu. Jsem poražen. Nemůžu tomu "
 "uvěřit."
@@ -218,7 +216,7 @@ msgstr "No neříkal jsem ti to?!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:172
 msgid "And by my own hands you died!"
-msgstr "A zemřels mou rukou!"
+msgstr "A zemřel's mou rukou!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:185
 msgid "I am Gwiti the Mighty, prepare to die!"
@@ -273,8 +271,7 @@ msgid "I see that your puny kingdom marshals its troops at last."
 msgstr "Vidím, že tvé titěrné království nakonec sešikovalo své houfy."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:100
-msgid ""
-"So you are the one responsible for our defeat at the Stone of Erzen. Die!"
+msgid "So you are the one responsible for our defeat at the Stone of Erzen. Die!"
 msgstr "Tak to ty jsi odpovědný za naši porážku u Erzenova kamene. Zemři!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:104
@@ -312,8 +309,7 @@ msgid "Lord Aretu"
 msgstr "Lord Aretu"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:150
-msgid ""
-"Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!"
+msgid "Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!"
 msgstr "Leonard je mrtev? Ach, jak smutné. Pojďte muži, zničme ty nemrtvé!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:154
@@ -341,7 +337,7 @@ msgid ""
 "Haha, it was a mistake of you to flee there! The pass is blocked, and my "
 "troops will slay you now!"
 msgstr ""
-"Haha, tak tys myslel, že tudy utčeš?! Průchod je zablokován a moji vojáci tě "
+"Haha, tak tys myslel, že tudy utečeš?! Průchod je zablokován a moji vojáci tě "
 "teď dostanou!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:225
@@ -359,10 +355,8 @@ msgid "Oh, no, escaping dwarves only to be caught by undead."
 msgstr "Ale ne, zdrhnul jsem trpaslíkům jen proto, aby mě chytli nemrtví."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:243
-msgid ""
-"Who are you? If you are a foe of the Dwarves, I might consider you an ally."
-msgstr ""
-"Kdo jsi? Jestli nepřítel trpaslíků, mohl bych tě možná považovat za spojence."
+msgid "Who are you? If you are a foe of the Dwarves, I might consider you an ally."
+msgstr "Kdo jsi? Jestli nepřítel trpaslíků, mohl bych tě možná považovat za spojence."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Confrontation.cfg:248
 msgid ""
@@ -433,9 +427,8 @@ msgid "Oh no. The orcs seem to have recruited the undead to their side."
 msgstr "Ach ne. Zdá se, že skřeti přibrali na svou stranu nemrtvé."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
-#, fuzzy
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
-msgstr "Zatraceně! Jak přesvědčili elfové nekromanta, aby bojoval za ně?"
+msgstr "Zatraceně! Jak přesvědčili elfové černokněžníka, aby bojoval za ně?"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
 msgid "I side not with either of you!"
@@ -471,24 +464,20 @@ msgid "I die a terrible death... not knowing why."
 msgstr "Zemřel jsem strašlivou smrtí... nevědíc proč."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
-#, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr "Proklínám tohohle nekromanta! Proč sem jenom musel chodit?!"
+msgstr "Proklínám tohohle černokněžníka! Proč sem jenom musel chodit?!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
-msgid ""
-"At last! This is it! Now I must laugh crazedly as a true villain always must!"
+msgid "At last! This is it! Now I must laugh crazedly as a true villain always must!"
 msgstr ""
 "Konečně! Tady je to! Teď se musím chovat tak, jako každý správný ničema - "
 "ŠÍLENĚ SE SMÁT!!!!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Crelanus_Book.cfg:237
-#, fuzzy
 msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
-msgstr ""
-"Můj pane, vaše podezřeni bylo správné. Vskutku v této zemi pobývá nekromant!"
+msgstr "Můj pane, vaše podezření bylo správné. Vskutku v této zemi pobývá černokněžník!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
 msgid "Inside the Tower"
@@ -524,7 +513,7 @@ msgstr "Lagon"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:213
 msgid "Hayaargghh! We have arrived! Command us, Master!"
-msgstr "Aáárgh! Jsme zde! Poroučej, mistře!"
+msgstr "Hejáá! Jsme zde! Poroučej, mistře!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:230
 msgid "There's a secret door here! This must be the library."
@@ -544,11 +533,10 @@ msgstr "Dvacet zlaťáků je vítaný dáreček."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:329
 msgid "I suppose thirty copper coins should not be scorned..."
-msgstr "Myslím, že třiceti stříbrňáky nepohrdnu..."
+msgstr "Myslím, že třiceti měďáky nepohrdnu..."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:354
-msgid ""
-"The chest is empty save for a few trinkets. The magic has gone out of them."
+msgid "The chest is empty save for a few trinkets. The magic has gone out of them."
 msgstr "Truhlice je až na několik cetek prázdná. Magie z nich už vyprchala."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:379
@@ -583,12 +571,10 @@ msgstr "Lektvar mrazu"
 msgid ""
 "This potion contains a strange fluid designed to imbue a weapon with the "
 "power of cold."
-msgstr ""
-"Tento lektvar obsahuje zvláštní tekutinu, která nabije zbraň silou mrazu."
+msgstr "Tento lektvar obsahuje zvláštní tekutinu, která nabije zbraň silou mrazu."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:570
-msgid ""
-"This is not the tome Crelanu wrote...hmmm... but it contains its whereabouts!"
+msgid "This is not the tome Crelanu wrote...hmmm... but it contains its whereabouts!"
 msgstr ""
 "Tohle není kniha, kterou napsal Krelan ... hmm ..., ale je tady napsáno, kde "
 "ji hledat!"
@@ -638,9 +624,8 @@ msgstr ""
 "má síla bude dostatečná pro vpád do Wesnothu."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
-#, fuzzy
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
-msgstr "Blíží se nekromant! Je možné, že je to ten, kterého jsme vyhnali?"
+msgstr "Blíží se černokněžník! Je možné, že je to ten, kterého jsme vyhnali?"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -691,9 +676,8 @@ msgid "Haha! I have gained entry to the tower!"
 msgstr "Ha ha ha! Získal jsem přístup do věže!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:210
-#, fuzzy
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Proklínám toho hnusného nekromanta!"
+msgstr "Proklínám toho hnusného černokněžníka!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:4
 msgid "The Skull of Agarash"
@@ -744,7 +728,7 @@ msgid ""
 "Gwiti, do not yet march in pursuit of your revenge. First, you shall go "
 "south, against the orcs, and there find the Skull of Agarash."
 msgstr ""
-"Gwiti, nevydávej se zatím za svou pomstou. Jdi nejprve na jih, poraž skřety "
+"Gwiti, nevydávej se zatím za svou pomstou. Jdi nejprve na jih, poraz skřety "
 "a tam nalezneš Agarašovu lebku."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:148
@@ -829,17 +813,15 @@ msgstr ""
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Underground_Pool.cfg:62
 msgid "If there is anything to dread here, it is me. Now, onward!"
-msgstr "Jestli je tu nějaký důvod k obavám, tak jsem to ja. Pokračujem!"
+msgstr "Jestli je tu nějaký důvod k obavám, tak jsem to já. Pokračujem!"
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Underground_Pool.cfg:66
 msgid "End of Part 1"
 msgstr "Konec první části "
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Underground_Pool.cfg:67
-msgid ""
-"Gwiti's adventures will continue in another installment of The Dark Hordes."
-msgstr ""
-"Pokračování Gwitiho dobrodružství se dočkáte v dalším díle Temných hord."
+msgid "Gwiti's adventures will continue in another installment of The Dark Hordes."
+msgstr "Pokračování Gwitiho dobrodružství se dočkáte v dalším díle Temných hord."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Underground_Pool.cfg:80
 msgid "Move Gwiti or Tanar into the water"
@@ -867,7 +849,7 @@ msgid ""
 "he, he, he..."
 msgstr ""
 "Tak to je všechny povraždíme. Ještě nikdy jsem ve svých nemrtvých řadách "
-"neměl trpaslíky. Hahahahaaaa...."
+"neměl trpaslíky. Hahahahá...."
 
 #: data/campaigns/The_Dark_Hordes/scenarios/Underground_Pool.cfg:253
 msgid "The Hoard of the Dwarves! Three hundred gold at least!"
@@ -889,7 +871,6 @@ msgstr ""
 "mrtvoly svých nepřátel, tentokrát však bojujících na jejich straně."
 
 #: data/campaigns/The_Dark_Hordes/utils/intro.cfg:14
-#, fuzzy
 msgid ""
 "However, not only was this forbidden, but rash as well. The cavalry meant to "
 "come as reinforcements instead clashed with the undead legions, and so the "
@@ -897,9 +878,9 @@ msgid ""
 "dark sorcerers."
 msgstr ""
 "Toto jednání bylo však nejenom zapovězené, ale také zbrklé. Kavalérie, která "
-"měla jako posila zvrátit průběh bitvy, se místo  střetu s nepřítelem srazila "
+"měla jako posila zvrátit průběh bitvy, se místo střetu s nepřítelem srazila "
 "s nemrtvými hordami. A tak se bitva, která měla být vítěznou, změnila díky "
-"dvěma nekromantům v bitvu prohranou."
+"dvěma černokněžníkům v bitvu prohranou."
 
 #: data/campaigns/The_Dark_Hordes/utils/intro.cfg:23
 msgid ""
@@ -1054,3 +1035,4 @@ msgstr ""
 #~ msgstr ""
 #~ "&undead-initiate.png,Učedník,(nejsnažší);*&undead-necromancer.png,Mistr;"
 #~ "&undead-lich.png,Temný pán,(nejobtížnějsí)"
+
