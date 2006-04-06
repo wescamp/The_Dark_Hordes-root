@@ -11,14 +11,13 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2006-04-04 11:40+0200\n"
+"PO-Revision-Date: 2006-04-06 10:28+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Bookmarks: 138,141,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Generator: KBabel 1.11.2\n"
 
@@ -170,8 +169,7 @@ msgid "It is over. I am doomed."
 msgstr "Je po všem. Jsem ztracen."
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:139
-msgid ""
-"I...have failed to win this battle. I am defeated. I will not believe it."
+msgid "I...have failed to win this battle. I am defeated. I will not believe it."
 msgstr ""
 "Já... Zklamal jsem. Nepodařilo se mi vyhrát bitvu. Jsem poražen. Nemůžu tomu "
 "uvěřit."
@@ -245,8 +243,7 @@ msgid "I see that your puny kingdom marshals its troops at last."
 msgstr "Vidím, že tvé titěrné království nakonec sešikovalo své houfy."
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:100
-msgid ""
-"So you are the one responsible for our defeat at the Stone of Erzen. Die!"
+msgid "So you are the one responsible for our defeat at the Stone of Erzen. Die!"
 msgstr "Tak to ty jsi odpovědný za naši porážku u Erzenova kamene. Zemři!"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:104
@@ -284,8 +281,7 @@ msgid "Lord Aretu"
 msgstr "Lord Aretu"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:150
-msgid ""
-"Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!"
+msgid "Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!"
 msgstr "Leonard je mrtev? Ach, jak smutné. Pojďte muži, zničme ty nemrtvé!"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:154
@@ -331,10 +327,8 @@ msgid "Oh, no, escaping dwarves only to be caught by undead."
 msgstr "Ale ne, zdrhnul jsem trpaslíkům jen proto, aby mě chytli nemrtví."
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:243
-msgid ""
-"Who are you? If you are a foe of the Dwarves, I might consider you an ally."
-msgstr ""
-"Kdo jsi? Jestli nepřítel trpaslíků, mohl bych tě možná považovat za spojence."
+msgid "Who are you? If you are a foe of the Dwarves, I might consider you an ally."
+msgstr "Kdo jsi? Jestli nepřítel trpaslíků, mohl bych tě možná považovat za spojence."
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:248
 msgid ""
@@ -446,8 +440,7 @@ msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
 msgstr "Proklínám tohohle černokněžníka! Proč sem jenom musel chodit?!"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
-msgid ""
-"At last! This is it! Now I must laugh crazedly as a true villain always must!"
+msgid "At last! This is it! Now I must laugh crazedly as a true villain always must!"
 msgstr ""
 "Konečně! Tady je to! Teď se musím chovat tak, jako každý správný ničema - "
 "ŠÍLENĚ SE SMÁT!!!!"
@@ -517,8 +510,7 @@ msgid "I suppose thirty copper coins should not be scorned..."
 msgstr "Myslím, že třiceti měďáky nepohrdnu..."
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:354
-msgid ""
-"The chest is empty save for a few trinkets. The magic has gone out of them."
+msgid "The chest is empty save for a few trinkets. The magic has gone out of them."
 msgstr "Truhlice je až na několik cetek prázdná. Magie z nich už vyprchala."
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:379
@@ -553,12 +545,10 @@ msgstr "Lektvar mrazu"
 msgid ""
 "This potion contains a strange fluid designed to imbue a weapon with the "
 "power of cold."
-msgstr ""
-"Tento lektvar obsahuje zvláštní tekutinu, která nabije zbraň silou mrazu."
+msgstr "Tento lektvar obsahuje zvláštní tekutinu, která nabije zbraň silou mrazu."
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:570
-msgid ""
-"This is not the tome Crelanu wrote...hmmm... but it contains its whereabouts!"
+msgid "This is not the tome Crelanu wrote...hmmm... but it contains its whereabouts!"
 msgstr ""
 "Tohle není kniha, kterou napsal Krelan ... hmm ..., ale je tady napsáno, kde "
 "ji hledat!"
@@ -804,10 +794,8 @@ msgid "End of Part 1"
 msgstr "Konec první části "
 
 #: The_Dark_Hordes/scenarios/Underground_Pool.cfg:67
-msgid ""
-"Gwiti's adventures will continue in another installment of The Dark Hordes."
-msgstr ""
-"Pokračování Gwitiho dobrodružství se dočkáte v dalším díle Temných hord."
+msgid "Gwiti's adventures will continue in another installment of The Dark Hordes."
+msgstr "Pokračování Gwitiho dobrodružství se dočkáte v dalším díle Temných hord."
 
 #: The_Dark_Hordes/scenarios/Underground_Pool.cfg:80
 msgid "Move Gwiti or Tanar into the water"
@@ -847,7 +835,7 @@ msgstr "Přísahal jsi, že mě budeš ochraňovat!"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Temný duch"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
 msgid ""
@@ -855,24 +843,26 @@ msgid ""
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
 msgstr ""
+"Temní duchové jsou posli a hlasateli zpráv v říši nemrtvých -- a silami "
+"strachu v tomto světě. Naštěstí nebývají ve Wesnothu často spatřeni."
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:39
 msgid "baneblade"
-msgstr ""
+msgstr "čepel zkázy"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:40
 msgid "blade"
-msgstr ""
+msgstr "čepel"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:44
 #: The_Dark_Hordes/units/Dread_Lich.cfg:37
 #: The_Dark_Hordes/units/Demilich.cfg:48
 msgid "drain"
-msgstr ""
+msgstr "vysátí"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:55
 msgid "wail"
-msgstr ""
+msgstr "skřek"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:56
 #: The_Dark_Hordes/units/Deathmaster.cfg:60
@@ -881,11 +871,11 @@ msgstr ""
 #: The_Dark_Hordes/units/Initiate.cfg:45 The_Dark_Hordes/units/Demilich.cfg:44
 #: The_Dark_Hordes/units/Demilich.cfg:59
 msgid "cold"
-msgstr ""
+msgstr "chlad"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
-msgstr ""
+msgstr "Pán smrti"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
 msgid ""
@@ -894,30 +884,34 @@ msgid ""
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
+"Jejich pouť po temné cestě jim dala moc, která smrtelníkům není normálně "
+"propůjčována, ale za strašlivou cenu: Nemrtvý, kterému dal svou duši, si "
+"postupně činí nárok také na jeho smrtelnou schránku, a časem se stane pravým "
+"nemrtvým a postrachem všeho živého."
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
-msgstr ""
+msgstr "hůl"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:40
 msgid "impact"
-msgstr ""
+msgstr "úder"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:59
 #: The_Dark_Hordes/units/Dread_Lich.cfg:47
 #: The_Dark_Hordes/units/Initiate.cfg:44 The_Dark_Hordes/units/Demilich.cfg:58
 msgid "magic"
-msgstr ""
+msgstr "magie"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:61
 #: The_Dark_Hordes/units/Dread_Lich.cfg:49
 #: The_Dark_Hordes/units/Initiate.cfg:46 The_Dark_Hordes/units/Demilich.cfg:60
 msgid "magical"
-msgstr ""
+msgstr "magické"
 
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Poloviční lich"
 
 #: The_Dark_Hordes/units/Demilich.cfg:28
 msgid ""
@@ -926,15 +920,18 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Příliš dlouhý čas strávený nimráním se v zakázané magii a temných uměních "
+"začal na tomto mágovi neúprosně vymáhat svou daň. Ztratil své tělo a stal se "
+"sám nemrtvým. Časem se může stát nesmrtelným -- a obávaným všemi bez výjimky."
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 #: The_Dark_Hordes/units/Demilich.cfg:43
 msgid "touch"
-msgstr ""
+msgstr "dotek"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Děsivý Lich"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
 msgid ""
@@ -945,16 +942,23 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Již je tomu dávno, co Ha'atel zaplatil finální oběť za temná umění, kterými "
+"se zabýval a změnil se na nemrtvého. Jako vrchol své síly se stal lichem, "
+"chodícím ztělesněním zla. Nade všechny pochybnosti překročil bod návratu a "
+"jeho síla a nesmrtelnost mu bude muset poskytnout útěchu za to, co ztratil "
+"při jejich hledání."
 
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Zasvěcenec"
 
 #: The_Dark_Hordes/units/Initiate.cfg:24
 msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"Zaobírání se temnou magií a touhou po moci byl mladý Ha'atel oslaben až do "
+"bodu, kdy je příliš slabý na útok v běžném boji."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -1156,3 +1160,4 @@ msgstr ""
 #~ msgstr ""
 #~ "&undead-initiate.png,Učedník,(nejsnažší);*&undead-necromancer.png,Mistr;"
 #~ "&undead-lich.png,Temný pán,(nejobtížnějsí)"
+
