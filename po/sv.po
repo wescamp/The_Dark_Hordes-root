@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2006-04-22 16:54+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:4
 msgid "A New Chance"
@@ -863,7 +863,7 @@ msgstr "Du svor att beskydda mig!"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Mörkerande"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
 msgid ""
@@ -871,24 +871,26 @@ msgid ""
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
 msgstr ""
+"Mörkerandar är budbärare från de dödas rike, och en fasans kraft i denna "
+"värld. Lyckligtvis har de sällan setts i Wesnoth."
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:39
 msgid "baneblade"
-msgstr ""
+msgstr "domedagssvärd"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:40
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:44
 #: The_Dark_Hordes/units/Dread_Lich.cfg:37
 #: The_Dark_Hordes/units/Demilich.cfg:48
 msgid "drain"
-msgstr ""
+msgstr "suga livskraft"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:55
 msgid "wail"
-msgstr ""
+msgstr "tjut"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:56
 #: The_Dark_Hordes/units/Deathmaster.cfg:60
@@ -897,11 +899,11 @@ msgstr ""
 #: The_Dark_Hordes/units/Initiate.cfg:45 The_Dark_Hordes/units/Demilich.cfg:44
 #: The_Dark_Hordes/units/Demilich.cfg:59
 msgid "cold"
-msgstr ""
+msgstr "frost"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
-msgstr ""
+msgstr "Dödsmagiker"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
 msgid ""
@@ -910,30 +912,34 @@ msgid ""
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
+"Hans vandring på dödens väg har givit honom krafter som en dödlig normalt "
+"sett inte har, men till ett förfärligt pris. De vandöda till vilka han gav "
+"sin själ kräver gradvis hans förgängliga skal, och med tiden kommer han att "
+"förvandlas till en sann vandöd, en fasa för allt som lever."
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
-msgstr ""
+msgstr "stav"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:40
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:59
 #: The_Dark_Hordes/units/Dread_Lich.cfg:47
 #: The_Dark_Hordes/units/Initiate.cfg:44 The_Dark_Hordes/units/Demilich.cfg:58
 msgid "magic"
-msgstr ""
+msgstr "magi"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:61
 #: The_Dark_Hordes/units/Dread_Lich.cfg:49
 #: The_Dark_Hordes/units/Initiate.cfg:46 The_Dark_Hordes/units/Demilich.cfg:60
 msgid "magical"
-msgstr ""
+msgstr "magisk"
 
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Dödsbesvärjare"
 
 #: The_Dark_Hordes/units/Demilich.cfg:28
 msgid ""
@@ -942,15 +948,19 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Dessa magiker har tillbringat alltför mycket tid med förbjuden magi och "
+"mörkrets konster, vilket har börjat utkräva ett högt pris. Dödsbesvärjare "
+"förlorar långsamt sina kroppar och blir så småningom vandöda, och fruktas av "
+"alla."
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 #: The_Dark_Hordes/units/Demilich.cfg:43
 msgid "touch"
-msgstr ""
+msgstr "beröring"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Dödsmästare"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
 msgid ""
@@ -961,16 +971,25 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Efter en lång färd har Ha'atel gjort det slutgiltiga offret för de mörka "
+"konster till vilka han hängivit sig, och själv trätt in i vandöden. Vid "
+"höjden av sin makt har han blivit en dödsmästare, ett vandrade "
+"förkroppsligande av döden. Han har passerat gränsen bortom vilken ingen "
+"återvändo finns, och hans makt och odödlighet måste nu räcka som belöning "
+"för allt han förlorat på vägen i sin åstundan efter dem."
 
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Dödens invigde"
 
 #: The_Dark_Hordes/units/Initiate.cfg:24
 msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"Den unge Ha'atels storhetsvansinne har fått honom bli inblandad i dödsmagi. "
+"Detta har försvagat honom så till den grad att han inte kan anfalla i "
+"reguljära strider."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -1015,27 +1034,3 @@ msgstr ""
 "Men Ödet ville annorlunda. Skeppet råkade ut för en storm och föll i bitar; "
 "bröderna blev åtskilda och spolades upp på land. Detta var upprinnelsen till "
 "De mörka horderna."
-
-#~ msgid "The Dark Hordes (Part 1)"
-#~ msgstr "Mörkrets Horder (Del 1)"
-
-#~ msgid "Apprentice"
-#~ msgstr "Lärling"
-
-#~ msgid "(easiest)"
-#~ msgstr "(lättast)"
-
-#~ msgid "Master"
-#~ msgstr "Mästare"
-
-#~ msgid "(hardest)"
-#~ msgstr "(svårast)"
-
-#~ msgid "Dark Lord"
-#~ msgstr "Mörkrets furste"
-
-#~ msgid ""
-#~ "Lead fugitive dark sorcerer Gwiti Ha'atel to mastery of the undead hordes."
-#~ msgstr ""
-#~ "Led mörkermagikern Gwiti Ha'atel i hans flykt till bemästrandet av de "
-#~ "vandöda horderna."
