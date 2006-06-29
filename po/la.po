@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:4
 msgid "A New Chance"
@@ -394,8 +394,7 @@ msgstr "Eheu. Orci inmortuos in partem suam conscribisse videntur."
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
-"Hercle! Quomodo dryadales veneficum tenebrosum cum eis progredi "
-"suaserunt?"
+"Hercle! Quomodo dryadales veneficum tenebrosum cum eis progredi suaserunt?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
 msgid "I side not with either of you!"
@@ -886,8 +885,8 @@ msgid ""
 msgstr ""
 "Errationes eius in via obscura ei potestatem dederunt, quae non plerumque "
 "mortalibus tributa est, sed terribili pretio: inmortui quibus animam suam "
-"dedit etiam corpus mortale paulatim postulant, et ad tempus erit "
-"inmortuus verus et pavor omnibus viventibus."
+"dedit etiam corpus mortale paulatim postulant, et ad tempus erit inmortuus "
+"verus et pavor omnibus viventibus."
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
@@ -959,8 +958,8 @@ msgid ""
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
 "Leviter attingens Magicam Mortis, libido pontentiae huius adulescentis de "
-"familia Haatelis eum debilitavit donec nimis debilis est ad oppugnandum "
-"in concursu."
+"familia Haatelis eum debilitavit donec nimis debilis est ad oppugnandum in "
+"concursu."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -982,8 +981,7 @@ msgid ""
 msgstr ""
 "Sed hoc non solum illicitum sed etiam temerarium erat. Equites non ut copiae "
 "novae advenerunt sed contra legiones inmortuorum conflixerunt. Sic persum "
-"est proelium quod victum esset nisi hi duo venefici tenebrosi partes "
-"agerent."
+"est proelium quod victum esset nisi hi duo venefici tenebrosi partes agerent."
 
 #: The_Dark_Hordes/utils/intro.cfg:23
 msgid ""
