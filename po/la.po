@@ -3,15 +3,15 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Battle for Wesnoth 1.0.0\n"
+"Project-Id-Version: Battle for Wesnoth 1.2.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2005-08-28 09:04+0200\n"
+"PO-Revision-Date: 2006-06-29 16:17+0200\n"
 "Last-Translator: Mark Polo <markpolo@gmail.com>\n"
 "Language-Team: Latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:4
 msgid "A New Chance"
@@ -392,10 +392,10 @@ msgid "Oh no. The orcs seem to have recruited the undead to their side."
 msgstr "Eheu. Orci inmortuos in partem suam conscribisse videntur."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
-#, fuzzy
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
-"Hercle! Quomodo dryadales evocatorem mortuorum cum eis progredi suaserunt?"
+"Hercle! Quomodo dryadales veneficum tenebrosum cum eis progredi "
+"suaserunt?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
 msgid "I side not with either of you!"
@@ -431,9 +431,8 @@ msgid "I die a terrible death... not knowing why."
 msgstr "Morior mortem terribilem... et nescio cur."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
-#, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr "Maledictum illi evocatori mortuorum! Cur necesse est eum advenire?"
+msgstr "Maledictum illi venefico tenebroso! Cur necesse est eum advenire?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
 msgid ""
@@ -443,12 +442,11 @@ msgstr ""
 "debeat!"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:237
-#, fuzzy
 msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
 msgstr ""
-"Domine mi, suspiciones tuae vera erant. Quidem evocator mortuorum in hac "
+"Domine mi, suspiciones tuae vera erant. Quidem veneficus tenebrosus in hac "
 "regione est!"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
@@ -596,9 +594,8 @@ msgstr ""
 "potestas mea sufficiet ut Occidiseptentrionem invadam."
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
-#, fuzzy
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
-msgstr "Evocator mortuorum appropinquat! Potestne esse idem quem expulimus?"
+msgstr "Veneficus tenebrosus appropinquat! Potestne esse idem quem expulimus?"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -649,9 +646,8 @@ msgid "Haha! I have gained entry to the tower!"
 msgstr "Hahahae! Aditum torris adipiscor!"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:210
-#, fuzzy
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Maledictum illi evocatori foedo mortuorum!"
+msgstr "Maledictum illi venefico foedo tenebroso!"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:4
 msgid "The Skull of Agarash"
@@ -839,7 +835,7 @@ msgstr "Iuravisti me protegere!"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Spiritus Tenebrosus"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
 msgid ""
@@ -847,24 +843,26 @@ msgid ""
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
 msgstr ""
+"Spirtus Tenebrosi nuntii ex regno mortuorum et vis pavoris in mundo hoc "
+"sunt. Feliciter rare visi sunt in Occidiseptentrione."
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:39
 msgid "baneblade"
-msgstr ""
+msgstr "lamina mortis"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:40
 msgid "blade"
-msgstr ""
+msgstr "lamina"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:44
 #: The_Dark_Hordes/units/Dread_Lich.cfg:37
 #: The_Dark_Hordes/units/Demilich.cfg:48
 msgid "drain"
-msgstr ""
+msgstr "exhaurire"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:55
 msgid "wail"
-msgstr ""
+msgstr "eiulatum"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:56
 #: The_Dark_Hordes/units/Deathmaster.cfg:60
@@ -873,11 +871,11 @@ msgstr ""
 #: The_Dark_Hordes/units/Initiate.cfg:45 The_Dark_Hordes/units/Demilich.cfg:44
 #: The_Dark_Hordes/units/Demilich.cfg:59
 msgid "cold"
-msgstr ""
+msgstr "frigidum"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
-msgstr ""
+msgstr "Dominus Mortis"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
 msgid ""
@@ -886,30 +884,34 @@ msgid ""
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
+"Errationes eius in via obscura ei potestatem dederunt, quae non plerumque "
+"mortalibus tributa est, sed terribili pretio: inmortui quibus animam suam "
+"dedit etiam corpus mortale paulatim postulant, et ad tempus erit "
+"inmortuus verus et pavor omnibus viventibus."
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
-msgstr ""
+msgstr "virga"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:40
 msgid "impact"
-msgstr ""
+msgstr "incussus"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:59
 #: The_Dark_Hordes/units/Dread_Lich.cfg:47
 #: The_Dark_Hordes/units/Initiate.cfg:44 The_Dark_Hordes/units/Demilich.cfg:58
 msgid "magic"
-msgstr ""
+msgstr "magica"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:61
 #: The_Dark_Hordes/units/Dread_Lich.cfg:49
 #: The_Dark_Hordes/units/Initiate.cfg:46 The_Dark_Hordes/units/Demilich.cfg:60
 msgid "magical"
-msgstr ""
+msgstr "magicalis"
 
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Semiossa Magi"
 
 #: The_Dark_Hordes/units/Demilich.cfg:28
 msgid ""
@@ -918,15 +920,19 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Postquam nimio tempore magicas interdictas et artes obscuras leviter "
+"attingerant, hi magi pretium gravem pagare coeperunt. Semiossa Magi corpora "
+"sua perdunt et inmortui ipsi fiunt. Ad tempus possint vere inmortui fieri, "
+"metuti ab omnibus."
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 #: The_Dark_Hordes/units/Demilich.cfg:43
 msgid "touch"
-msgstr ""
+msgstr "tactus"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Ossa Magi Horroris"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
 msgid ""
@@ -937,16 +943,24 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Demum sacrificium ultimum solvit Haatelis pro artibus tenebrosis in quas "
+"fodit et ipse inmortuus factus est. In fastigio potestatis eius ossa magi "
+"facta sunt, repraesentatio ambulans horroris. Sine dubio transivit iam "
+"Rubiconem suum et potestas et immortalitas suae consolationem ei praebere "
+"debent pro omnibus quae perdidit in anquirendo eas."
 
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Initiatus"
 
 #: The_Dark_Hordes/units/Initiate.cfg:24
 msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"Leviter attingens Magicam Mortis, libido pontentiae huius adulescentis de "
+"familia Haatelis eum debilitavit donec nimis debilis est ad oppugnandum "
+"in concursu."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -960,7 +974,6 @@ msgstr ""
 "cadavera inimicorum evocaverunt ut sugerent et pugnarent in parte eorum."
 
 #: The_Dark_Hordes/utils/intro.cfg:14
-#, fuzzy
 msgid ""
 "However, not only was this forbidden, but rash as well. The cavalry meant to "
 "come as reinforcements instead clashed with the undead legions, and so the "
@@ -969,7 +982,7 @@ msgid ""
 msgstr ""
 "Sed hoc non solum illicitum sed etiam temerarium erat. Equites non ut copiae "
 "novae advenerunt sed contra legiones inmortuorum conflixerunt. Sic persum "
-"est proelium quod victum esset nisi hi duo evocatores mortuorum partes "
+"est proelium quod victum esset nisi hi duo venefici tenebrosi partes "
 "agerent."
 
 #: The_Dark_Hordes/utils/intro.cfg:23
