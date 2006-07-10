@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2006-04-22 16:54+0200\n"
+"PO-Revision-Date: 2006-07-09 22:45+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -408,7 +408,7 @@ msgstr "Åh nej. Det verkar som om orcherna har rekryterat vandöda."
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
-"Tusan också! Hur i hela friden har alverna lyckats få en mörkermagiker att "
+"Tusan också! Hur i hela friden har alverna lyckats få en skuggmagiker att "
 "kämpa vid sin sida?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
@@ -448,7 +448,7 @@ msgstr "Jag dör en fasansfull död... Och jag vet inte ens varför."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr "Förbannelse över den där mörkermagikern! Varför skulle han komma hit?!"
+msgstr "Förbannelse över den där skuggmagikern! Varför skulle han komma hit?!"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
 msgid ""
@@ -462,7 +462,7 @@ msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
 msgstr ""
-"Herre, dina misstankar var korrekta. Det finns verkligen en mörkermagiker i "
+"Herre, dina misstankar var korrekta. Det finns verkligen en skuggmagiker i "
 "den här delen av landet!"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
@@ -618,7 +618,7 @@ msgstr ""
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
-msgstr "Det kommer en mörkermagiker! Kan det vara densamme som vi förvisade?"
+msgstr "Det kommer en skuggmagiker! Kan det vara densamme som vi förvisade?"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -673,7 +673,7 @@ msgstr "Haha! Jag har tagit mig in i tornet!"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:210
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Förbannad vare den vidrige mörkermagikern!"
+msgstr "Förbannad vare den vidrige skuggmagikern!"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:4
 msgid "The Skull of Agarash"
@@ -1013,7 +1013,7 @@ msgstr ""
 "Men detta var inte blott förbjudet, utan även ogenomtänkt. Kavalleriet som "
 "skulle undsätta trupperna drabbade samman med de vandöda legionerna, och "
 "slaget, som annars skulle ha vunnits, förlorades på grund av dessa "
-"mörkermagikers ingripande."
+"skuggmagikers ingripande."
 
 #: The_Dark_Hordes/utils/intro.cfg:23
 msgid ""
