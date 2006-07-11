@@ -1,20 +1,19 @@
 # German translations for Battle for Wesnoth package.
 # Copyright (C) 2004, 2005 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-#
+# 
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.1-svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2006-03-04 20:52+0100\n"
+"PO-Revision-Date: 2006-07-11 13:55+0200\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic  AT   gmx D OT  net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: German\n"
-"X-Poedit-Country: GERMANY\n"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:4
 msgid "A New Chance"
@@ -882,8 +881,9 @@ msgid "You swore you would protect me!"
 msgstr "Ihr habt geschworen, dass ihr mich beschützt!"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
+#, fuzzy
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Dunkeler Geist"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
 msgid ""
@@ -894,21 +894,21 @@ msgstr ""
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:39
 msgid "baneblade"
-msgstr ""
+msgstr "Spektralklinge"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:40
 msgid "blade"
-msgstr ""
+msgstr "Klinge"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:44
 #: The_Dark_Hordes/units/Dread_Lich.cfg:37
 #: The_Dark_Hordes/units/Demilich.cfg:48
 msgid "drain"
-msgstr ""
+msgstr "Lebensentzug"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:55
 msgid "wail"
-msgstr ""
+msgstr "Schrei"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:56
 #: The_Dark_Hordes/units/Deathmaster.cfg:60
@@ -917,11 +917,12 @@ msgstr ""
 #: The_Dark_Hordes/units/Initiate.cfg:45 The_Dark_Hordes/units/Demilich.cfg:44
 #: The_Dark_Hordes/units/Demilich.cfg:59
 msgid "cold"
-msgstr ""
+msgstr "Kälte"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
+#, fuzzy
 msgid "Deathmaster"
-msgstr ""
+msgstr "Totenmeister"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
 msgid ""
@@ -933,27 +934,27 @@ msgstr ""
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
-msgstr ""
+msgstr "Stab"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:40
 msgid "impact"
-msgstr ""
+msgstr "Wucht"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:59
 #: The_Dark_Hordes/units/Dread_Lich.cfg:47
 #: The_Dark_Hordes/units/Initiate.cfg:44 The_Dark_Hordes/units/Demilich.cfg:58
 msgid "magic"
-msgstr ""
+msgstr "Magie"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:61
 #: The_Dark_Hordes/units/Dread_Lich.cfg:49
 #: The_Dark_Hordes/units/Initiate.cfg:46 The_Dark_Hordes/units/Demilich.cfg:60
 msgid "magical"
-msgstr ""
+msgstr "magisch"
 
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Halblich"
 
 #: The_Dark_Hordes/units/Demilich.cfg:28
 msgid ""
@@ -966,11 +967,12 @@ msgstr ""
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
 #: The_Dark_Hordes/units/Demilich.cfg:43
 msgid "touch"
-msgstr ""
+msgstr "Berührung"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
+#, fuzzy
 msgid "Dread Lich"
-msgstr ""
+msgstr "Schreckenslich"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
 msgid ""
