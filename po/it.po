@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-01 13:36+0200\n"
-"PO-Revision-Date: 2006-08-31 08:51+0100\n"
+"POT-Creation-Date: 2006-04-04 20:08+0200\n"
+"PO-Revision-Date: 2006-09-07 10:14+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -28,36 +28,36 @@ msgstr "Una nuova occasione"
 msgid "Clear the land of monsters"
 msgstr "Ripulisci la terra dai mostri"
 
-#: The_Dark_Hordes/scenarios/A_New_Chance.cfg:34
+#: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:33
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:35
+#: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:23
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:29
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:166
-#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:29
-#: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:23
-#: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:33
-#: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:55
 #: The_Dark_Hordes/scenarios/Underground_Pool.cfg:84
+#: The_Dark_Hordes/scenarios/A_New_Chance.cfg:34
+#: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:55
+#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:29
 msgid "Death of Gwiti Ha'atel"
 msgstr "Morte di Gwiti Ha'atel"
 
-#: The_Dark_Hordes/scenarios/A_New_Chance.cfg:38
+#: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:37
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:39
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:33
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:170
-#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:33
-#: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:37
+#: The_Dark_Hordes/scenarios/A_New_Chance.cfg:38
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:59
+#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:33
 msgid "Turns run out"
 msgstr "Fine dei turni a diposizione"
 
-#: The_Dark_Hordes/scenarios/A_New_Chance.cfg:46
-#: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:47
-#: The_Dark_Hordes/scenarios/Confrontation.cfg:41
-#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:43
-#: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:30
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:44
-#: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:67
+#: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:47
+#: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:30
+#: The_Dark_Hordes/scenarios/Confrontation.cfg:41
 #: The_Dark_Hordes/scenarios/Underground_Pool.cfg:96
+#: The_Dark_Hordes/scenarios/A_New_Chance.cfg:46
+#: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:67
+#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:43
 msgid "Gwiti Ha'atel"
 msgstr "Gwiti Ha'atel"
 
@@ -163,7 +163,7 @@ msgid ""
 "Ha ha ha, did I not tell you it would be so? Perhaps I shall summon your "
 "shade to serve me one day. Until then...farewell!"
 msgstr ""
-"Ha ha ha, non ti avevo forse detto come sarebbe finita? Forse un giorno "
+"Ah ah ah, non ti avevo forse detto come sarebbe finita? Forse un giorno "
 "evocherò la tua ombra per servirmi. Fino a quel giorno... addio!"
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:124
@@ -182,7 +182,7 @@ msgid ""
 "Die, yes, die, and go to the Land of the Dead. Perhaps one day you will be "
 "back under my command!"
 msgstr ""
-"Muori, sì, muori, e vai nel Regno dei Morti. Forse un giorno tornerai in "
+"Muori, sì, muori, e vai nel regno dei morti. Forse un giorno tornerai in "
 "questo mondo sotto il mio controllo!"
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:160
@@ -191,7 +191,7 @@ msgstr "Non te l'avevo forse detto?!"
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:172
 msgid "And by my own hands you died!"
-msgstr "E per mano mia sei morto!"
+msgstr "E sei morto per mano mia!"
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:185
 msgid "I am Gwiti the Mighty, prepare to die!"
@@ -236,8 +236,8 @@ msgid ""
 "by Leonard as he reentered Wesnothian territory. The general of several "
 "outlying areas, his troops were many but untrained."
 msgstr ""
-"Con il rinvenimento dell'antico tomo di Crelanu una nuova forza ha iniziato "
-"a scorrere nell'esercito di Gwiti. Tuttavia la marcia di Gwiti venne fermata "
+"Con il rinvenimento dell'antico tomo di Crelanu, una nuova forza iniziò a "
+"scorrere nell'esercito di Gwiti. Tuttavia la marcia di Gwiti venne fermata "
 "da Leonard non appena rientrò nel territorio di Wesnoth. Il generale di "
 "molte aree di confine controllava truppe numerose ma male addestrate."
 
@@ -448,8 +448,8 @@ msgstr ""
 "Il libro non è qui, ma queste paludi contengono abbastanza cadaveri da "
 "soddisfare le mie necessità."
 
-#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:178
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:165
+#: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:178
 msgid "What? I can't die! Noooo!"
 msgstr "Cosa? Non posso morire! Noooo!"
 
@@ -897,8 +897,8 @@ msgid "blade"
 msgstr "lama"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:44
-#: The_Dark_Hordes/units/Demilich.cfg:48
 #: The_Dark_Hordes/units/Dread_Lich.cfg:37
+#: The_Dark_Hordes/units/Demilich.cfg:48
 msgid "drain"
 msgstr "assorbimento"
 
@@ -908,10 +908,10 @@ msgstr "lamento"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:56
 #: The_Dark_Hordes/units/Deathmaster.cfg:60
-#: The_Dark_Hordes/units/Demilich.cfg:44 The_Dark_Hordes/units/Demilich.cfg:59
 #: The_Dark_Hordes/units/Dread_Lich.cfg:33
 #: The_Dark_Hordes/units/Dread_Lich.cfg:48
-#: The_Dark_Hordes/units/Initiate.cfg:45
+#: The_Dark_Hordes/units/Initiate.cfg:45 The_Dark_Hordes/units/Demilich.cfg:44
+#: The_Dark_Hordes/units/Demilich.cfg:59
 msgid "cold"
 msgstr "freddo"
 
@@ -941,16 +941,14 @@ msgid "impact"
 msgstr "impatto"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:59
-#: The_Dark_Hordes/units/Demilich.cfg:58
 #: The_Dark_Hordes/units/Dread_Lich.cfg:47
-#: The_Dark_Hordes/units/Initiate.cfg:44
+#: The_Dark_Hordes/units/Initiate.cfg:44 The_Dark_Hordes/units/Demilich.cfg:58
 msgid "magic"
 msgstr "magia"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:61
-#: The_Dark_Hordes/units/Demilich.cfg:60
 #: The_Dark_Hordes/units/Dread_Lich.cfg:49
-#: The_Dark_Hordes/units/Initiate.cfg:46
+#: The_Dark_Hordes/units/Initiate.cfg:46 The_Dark_Hordes/units/Demilich.cfg:60
 msgid "magical"
 msgstr "magico"
 
@@ -971,8 +969,8 @@ msgstr ""
 "stessi dei non morti. Col tempo, potrebbero diventare completamente non "
 "morti ed essere temuti da tutti."
 
-#: The_Dark_Hordes/units/Demilich.cfg:43
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
+#: The_Dark_Hordes/units/Demilich.cfg:43
 msgid "touch"
 msgstr "tocco"
 
