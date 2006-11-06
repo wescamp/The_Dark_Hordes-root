@@ -1,16 +1,16 @@
 # Copyright (C) 2005 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
-# 
-# 
+#
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2005-12-15 20:18+0100\n"
-"Last-Translator: Onne <onne@grammex.com>\n"
+"PO-Revision-Date: 2006-11-06 17:58+0100\n"
+"Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
 "Language-Team: Dutch <onne@grammex.com>\n"
-"MIME-Version: (null)\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -411,10 +411,9 @@ msgstr ""
 "Och nee. De orks hebben zich blijkbaar met de levende doden geallieerd."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
-#, fuzzy
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
-"Verdomme! Hoe in 's hemelsnaam zijn de elfen erin geslaagd een necromancer "
+"Verdomme! Hoe in 's hemelsnaam zijn de elfen erin geslaagd een zwarte magiër "
 "aan hun kant te krijgen?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
@@ -451,9 +450,8 @@ msgid "I die a terrible death... not knowing why."
 msgstr "Ik sterf een afgrijselijke dood... niet wetende waarom."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
-#, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr "Vervloekt weze die necromancer! Waarom moest hij zonodig hier komen?"
+msgstr "Vervloekt weze die zwarte magiër! Waarom moest hij zonodig hier komen?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
 msgid ""
@@ -461,13 +459,12 @@ msgid ""
 msgstr "Eindelijk! Nu moet ik lachen zoals echte slechteriken moeten lachen!"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:237
-#, fuzzy
 msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
 msgstr ""
-"Mijn heer, uw vermoedens waren juist. Er is inderdaad een necromancer in dit "
-"deel van het land!"
+"Mijn heer, uw vermoedens waren juist. Er is inderdaad een zwarte magiër in "
+"dit deel van het land!"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
 msgid "Inside the Tower"
@@ -622,10 +619,9 @@ msgstr ""
 "en zal  ik machtig genoeg zijn om Wesnoth binnen te vallen."
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
-#, fuzzy
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
 msgstr ""
-"Een necromancer nadert! Zou het degene kunnen zijn die we verbannen hebben?"
+"Een zwarte magiër nadert! Zou het degene kunnen zijn die we verbannen hebben?"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -679,9 +675,8 @@ msgid "Haha! I have gained entry to the tower!"
 msgstr "Ha! Ik ben in de toren binnen!"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:210
-#, fuzzy
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Een vloek over die necromancer!"
+msgstr "Een vloek over die zwarte magiër!"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:4
 msgid "The Skull of Agarash"
@@ -873,14 +868,15 @@ msgstr "Je zweerde dat je me zou beschermen!"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Duistere kracht"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
+#, fuzzy
 msgid ""
 "Dark Spirits are messengers and bearers of tidings from the realm of the "
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
-msgstr ""
+msgstr "Duistere krachten zijn boodschappers en dragers "
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:39
 msgid "baneblade"
@@ -893,8 +889,9 @@ msgstr "scherp"
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:44
 #: The_Dark_Hordes/units/Dread_Lich.cfg:37
 #: The_Dark_Hordes/units/Demilich.cfg:48
+#, fuzzy
 msgid "drain"
-msgstr ""
+msgstr "afvloeien"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:55
 msgid "wail"
@@ -910,16 +907,20 @@ msgid "cold"
 msgstr "kou"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
+#, fuzzy
 msgid "Deathmaster"
-msgstr ""
+msgstr "Dodenmeester"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
+#, fuzzy
 msgid ""
 "His wanderings on a dark path have given him power normally not granted to "
 "mortals, but with a terrible cost: the undead that he gave his soul to are "
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
+"Zijn wandelingen over het duistere pad hebben hem de krachten gegeven die "
+"meestal niet voor stervelingen weggelegd zijn. "
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
@@ -963,10 +964,12 @@ msgid "touch"
 msgstr "aanraking"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
+#, fuzzy
 msgid "Dread Lich"
-msgstr ""
+msgstr "Verschikkelijke zielenzuiger"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
+#, fuzzy
 msgid ""
 "At long last, Ha'atel has paid the ultimate sacrifice for the dark arts into "
 "which he has delved, and has, himself, entered into undeath. At the apex of "
@@ -975,16 +978,21 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Uiteindelijk Ha'atal heeft het ultime offer gebracht voor zijn duistere "
+"kunsten die hij "
 
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Initiatief"
 
 #: The_Dark_Hordes/units/Initiate.cfg:24
 msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"Speelend met de dodenmagie, deze jonge Ha'atel zijn dorst naar macht "
+"verzwakte hem naar een punt waarop hij te zwak is om aan te vallen in een "
+"gewoon gevecht."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -998,7 +1006,6 @@ msgstr ""
 "riepen ze de lijken van gevallen vijanden op om voor hen te vechten."
 
 #: The_Dark_Hordes/utils/intro.cfg:14
-#, fuzzy
 msgid ""
 "However, not only was this forbidden, but rash as well. The cavalry meant to "
 "come as reinforcements instead clashed with the undead legions, and so the "
@@ -1008,7 +1015,7 @@ msgstr ""
 "Maar dit was niet alleen verboden, het was tevens onbedaard. De cavalerie "
 "die als versterkingen zouden aankomen liepen stuk op de ondode legioenen en "
 "dus was de strijd verloren wanneer de strijd zonder tussenkomst van de twee "
-"necromancers gewonnen had geweest."
+"zwarte magiërs gewonnen had geweest."
 
 #: The_Dark_Hordes/utils/intro.cfg:23
 msgid ""
