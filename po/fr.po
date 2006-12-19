@@ -7,13 +7,13 @@
 # This file is distributed under the same license as the Battle for Wesnoth package.
 # French Wesnoth translation team <wesnoth@ml.free.fr>, 2004.
 # Yann Dirson <ydirson@altern.org>, 2004.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.7.11-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2005-09-03 16:27+0200\n"
+"PO-Revision-Date: 2006-12-19 15:48+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Une nouvelle chance"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:30
 msgid "Clear the land of monsters"
-msgstr "Nettoyer le pays de ces monstres"
+msgstr "Nettoyer le pays de ses monstres"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:33
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:35
@@ -420,11 +420,10 @@ msgstr ""
 "Oh non. Les orcs semblent avoir recruté les morts-vivants à leurs côtés."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:112
-#, fuzzy
 msgid "Blast it! However did the elves get a dark sorcerer to march with them?"
 msgstr ""
-"Malédiction ! Comment se fait-il que les elfes aient un nécromancien "
-"marchant à leurs côtés ?"
+"Malédiction ! Comment les elfes ont-ils obtenu qu'un nécromancien soit à "
+"leurs côtés ?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:116
 msgid "I side not with either of you!"
@@ -460,10 +459,8 @@ msgid "I die a terrible death... not knowing why."
 msgstr "Je meurs d'une mort atroce... sans savoir pourquoi."
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
-#, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr ""
-"Que ce nécromancien soit maudit ! Pourquoi fallait-il qu'il vienne ici ?"
+msgstr "Maudit soit ce nécromancien ! Pourquoi a t-il fallu qu'il vienne ici ?"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
 msgid ""
@@ -473,13 +470,12 @@ msgstr ""
 "authentique méchant !"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:237
-#, fuzzy
 msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
 msgstr ""
-"Mon seigneur, vos soupçons étaient corrects. Il y a réellement un "
-"nécromancien dans cette partie du pays !"
+"Mon seigneur, vos soupçons étaient fondés. Il y a bel et bien un "
+"nécromancien dans cette région !"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
 msgid "Inside the Tower"
@@ -632,10 +628,10 @@ msgstr ""
 "Wesnoth."
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
-#, fuzzy
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
 msgstr ""
-"Un nécromancien s'approche ! Est-ce le même que celui que nous avons bannis ?"
+"Un nécromancien approche ! Est-il possible que ce soit le même que celui que "
+"nous avons bannis ?"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -687,9 +683,8 @@ msgid "Haha! I have gained entry to the tower!"
 msgstr "Haha ! J'ai gagné l'accès à la tour !"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:210
-#, fuzzy
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Que cet ignoble nécromancien soit maudit !"
+msgstr "Maudit soit cet ignoble nécromancien !"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:4
 msgid "The Skull of Agarash"
@@ -883,14 +878,14 @@ msgstr "Tu avais juré que tu me protégerai !"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "Esprit des ténèbres"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
 msgid ""
 "Dark Spirits are messengers and bearers of tidings from the realm of the "
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
-msgstr ""
+msgstr "Les esprits des ténèbres sont les messagers et les émissaires"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:39
 msgid "baneblade"
@@ -921,7 +916,7 @@ msgstr "froid"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
-msgstr ""
+msgstr "Maître de la mort"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
 msgid ""
@@ -930,6 +925,11 @@ msgid ""
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
+"L'enfer étant pavé de bonnes intentions, ses errements lui ont donné un "
+"pouvoir normalement inaccessible aux mortels pour un prix terrible : peu à "
+"peu, les morts-vivants, à qui il a voué son âme, réclament aussi son "
+"enveloppe mortelle et avec le temps, il deviendra un véritable mort-vivant "
+"et la terreur des êtres vivants."
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:39
 msgid "staff"
@@ -974,7 +974,7 @@ msgstr "toucher"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "Liche cauchemardesque"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
 msgid ""
@@ -985,16 +985,25 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"Ha'atel a fini par faire l'ultime sacrifice pour les arts sombres dans "
+"lesquels il a versé, au point d'entrer lui-même dans la non-vie. À l'apogée "
+"de sa puissance, il est devenu liche, une vive incarnation du mal. On peut "
+"être certain qu'il a passé le point de non-retourФ: sa puissance et son "
+"immortalité devront lui apporter la consolation pour tout ce qu'il a perdu "
+"dans sa quête pour y parvenir."
 
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "Initié"
 
 #: The_Dark_Hordes/units/Initiate.cfg:24
 msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"Imprégné de magie maccabre, la soif de ce jeune Ha'atel pour la puissance "
+"l'a affaibli au point qu'il est trop faible pour attaquer dans le combat "
+"régulier."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -1009,17 +1018,16 @@ msgstr ""
 "anciens ennemis, pour se lever à nouveau et combattre à leur côtés."
 
 #: The_Dark_Hordes/utils/intro.cfg:14
-#, fuzzy
 msgid ""
 "However, not only was this forbidden, but rash as well. The cavalry meant to "
 "come as reinforcements instead clashed with the undead legions, and so the "
 "battle was lost where it would have been won had it not been for these two "
 "dark sorcerers."
 msgstr ""
-"Pourtant, non seulement était-ce interdit, mais aussi imprudent. La "
-"cavalerie devant arriver en renfort se heurta aux légions de morts-vivants. "
-"Ainsi la bataille fut perdue alors qu'elle aurait été gagnée sans "
-"l'intervention de ces deux nécromanciens."
+"Pourtant, non seulement c'était interdit, mais plus encore imprudent. La "
+"cavalerie, censée arriver en renfort, se heurta aux légions de morts-"
+"vivants. Ainsi la bataille fut perdue alors qu'elle aurait été gagnée si ces "
+"deux nécromanciens n'étaient pas intervenus."
 
 #: The_Dark_Hordes/utils/intro.cfg:23
 msgid ""
