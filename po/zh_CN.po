@@ -1,13 +1,13 @@
 # Automatically generated <unicon221@gmail.com>, 2005.
-# 
-# 
+#
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-04 20:08+0200\n"
-"PO-Revision-Date: 2005-12-13 00:39+0800\n"
-"Last-Translator: unicon <unicon221@gmail.com>\n"
+"POT-Creation-Date: 2007-12-02 15:41+0100\n"
+"PO-Revision-Date: 2007-12-02 10:56+1000\n"
+"Last-Translator: luojie-dune <luojie-dune@operamail.com>\n"
 "Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -52,19 +52,19 @@ msgstr "回合耗尽"
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:67
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:43
 msgid "Gwiti Ha'atel"
-msgstr ""
+msgstr "Gwiti Ha'atel"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:60
 msgid "Grakarat"
-msgstr ""
+msgstr "Grakarat"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:90
 msgid "Rek Iceheart"
-msgstr ""
+msgstr "Rek Iceheart"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:102
 msgid "Gabtur"
-msgstr ""
+msgstr "Gabtur"
 
 #: The_Dark_Hordes/scenarios/A_New_Chance.cfg:115
 msgid ""
@@ -96,7 +96,7 @@ msgstr "打败你的兄弟Nati Ha'atel"
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:62
 msgid "Nati Ha'atel"
-msgstr ""
+msgstr "Nati Ha'atel"
 
 #: The_Dark_Hordes/scenarios/Brother_Against_Brother.cfg:81
 msgid ""
@@ -202,7 +202,7 @@ msgstr "杀害Leonard"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:54
 msgid "Leonard"
-msgstr ""
+msgstr "Leonard"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:92
 msgid ""
@@ -292,7 +292,7 @@ msgstr "哦.....的确微不足道的人类现在跟着我一定很累了。"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:231
 msgid "Tanar"
-msgstr ""
+msgstr "Tanar"
 
 #: The_Dark_Hordes/scenarios/Confrontation.cfg:239
 msgid "Oh, no, escaping dwarves only to be caught by undead."
@@ -336,11 +336,11 @@ msgstr "移动Gwiti至手卷处"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:57
 msgid "Urind"
-msgstr ""
+msgstr "Urind"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:73
 msgid "Nagou"
-msgstr ""
+msgstr "Nagou"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:95
 msgid ""
@@ -403,7 +403,7 @@ msgstr "我在极可怕的情况下死去... 并且不知道为什么。"
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:206
 #, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr "那个死灵法师被诅咒了！为什么他能来到这儿？！"
+msgstr "诅咒那个死灵法师了！为什么他能来到这儿？！"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:222
 msgid ""
@@ -411,11 +411,10 @@ msgid ""
 msgstr "终于！这就是了！现在我会如一个真正的坏蛋般大笑！"
 
 #: The_Dark_Hordes/scenarios/Crelanus_Book.cfg:237
-#, fuzzy
 msgid ""
 "My lord, your suspicions were correct. There is indeed a dark sorcerer in "
 "this part of the country!"
-msgstr "我的主人，你的担心是正确的。这个地方确实有一个死灵法师！"
+msgstr "主公，您的担心是正确的。这个地方确实有一个死灵法师！"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:4
 msgid "Inside the Tower"
@@ -434,19 +433,19 @@ msgstr ""
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:168
 msgid "Xakan"
-msgstr ""
+msgstr "Xakan"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:176
 msgid "Karae"
-msgstr ""
+msgstr "Karae"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:184
 msgid "Pezit"
-msgstr ""
+msgstr "Pezit"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:192
 msgid "Lagon"
-msgstr ""
+msgstr "Lagon"
 
 #: The_Dark_Hordes/scenarios/Inside_The_Tower.cfg:213
 msgid "Hayaargghh! We have arrived! Command us, Master!"
@@ -534,11 +533,11 @@ msgstr "杀死两个敌人的领袖"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:57
 msgid "Quirind"
-msgstr ""
+msgstr "Quirind"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:81
 msgid "Lessalin"
-msgstr ""
+msgstr "Lessalin"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:110
 msgid ""
@@ -561,7 +560,7 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:118
 #, fuzzy
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
-msgstr "一个死灵法师靠近了！这和那个被我们驱散的是同一人吗？"
+msgstr "一个死灵法师靠近了！这和那个被我们驱逐的是同一人吗？"
 
 #: The_Dark_Hordes/scenarios/Mages_And_Elves.cfg:122
 msgid ""
@@ -628,15 +627,15 @@ msgstr "带上Agarash的头颅"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:79
 msgid "Karz Gholum"
-msgstr ""
+msgstr "Karz Gholum"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:91
 msgid "Isidal B'Tai"
-msgstr ""
+msgstr "Isidal B'Tai"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:103
 msgid "Nakur Kimoni"
-msgstr ""
+msgstr "Nakur Kimoni"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:116
 msgid ""
@@ -647,11 +646,12 @@ msgstr ""
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:127
 msgid "Leganoth"
-msgstr ""
+msgstr "Leganoth"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:136
+#, fuzzy
 msgid "Gwitiii... Gwiti!"
-msgstr ""
+msgstr "Gwitiii... Gwiti!"
 
 #: The_Dark_Hordes/scenarios/The_Skull_of_Agarash.cfg:140
 msgid "A Dark Spirit? Surely this is a token of my mastery of the undead!"
@@ -788,45 +788,20 @@ msgstr "你发誓会保护我！"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:4
 msgid "Dark Spirit"
-msgstr ""
+msgstr "暗影"
 
 #: The_Dark_Hordes/units/Dark_Spirit.cfg:24
+#, fuzzy
 msgid ""
 "Dark Spirits are messengers and bearers of tidings from the realm of the "
 "dead, and a force of dread in this world. Happily, they have rarely been "
 "seen in Wesnoth."
-msgstr ""
-
-#: The_Dark_Hordes/units/Dark_Spirit.cfg:39
-msgid "baneblade"
-msgstr "涂毒剑"
-
-#: The_Dark_Hordes/units/Dark_Spirit.cfg:40
-msgid "blade"
-msgstr "剑"
-
-#: The_Dark_Hordes/units/Dark_Spirit.cfg:44
-#: The_Dark_Hordes/units/Dread_Lich.cfg:37
-#: The_Dark_Hordes/units/Demilich.cfg:48
-msgid "drain"
-msgstr ""
-
-#: The_Dark_Hordes/units/Dark_Spirit.cfg:55
-msgid "wail"
-msgstr "哀嚎"
-
-#: The_Dark_Hordes/units/Dark_Spirit.cfg:56
-#: The_Dark_Hordes/units/Deathmaster.cfg:60
-#: The_Dark_Hordes/units/Dread_Lich.cfg:33
-#: The_Dark_Hordes/units/Dread_Lich.cfg:48
-#: The_Dark_Hordes/units/Initiate.cfg:45 The_Dark_Hordes/units/Demilich.cfg:44
-#: The_Dark_Hordes/units/Demilich.cfg:59
-msgid "cold"
-msgstr "冰"
+msgstr "暗影是死亡王国的信使和脊梁, 值得庆幸的是它们很少出现在Wesnoth."
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
+#, fuzzy
 msgid "Deathmaster"
-msgstr ""
+msgstr "灵主"
 
 #: The_Dark_Hordes/units/Deathmaster.cfg:24
 msgid ""
@@ -835,26 +810,8 @@ msgid ""
 "gradually claiming his mortal shell too, and with time, he will be a true "
 "undead and a terror to all that lives."
 msgstr ""
-
-#: The_Dark_Hordes/units/Deathmaster.cfg:39
-msgid "staff"
-msgstr "棍"
-
-#: The_Dark_Hordes/units/Deathmaster.cfg:40
-msgid "impact"
-msgstr "冲击"
-
-#: The_Dark_Hordes/units/Deathmaster.cfg:59
-#: The_Dark_Hordes/units/Dread_Lich.cfg:47
-#: The_Dark_Hordes/units/Initiate.cfg:44 The_Dark_Hordes/units/Demilich.cfg:58
-msgid "magic"
-msgstr ""
-
-#: The_Dark_Hordes/units/Deathmaster.cfg:61
-#: The_Dark_Hordes/units/Dread_Lich.cfg:49
-#: The_Dark_Hordes/units/Initiate.cfg:46 The_Dark_Hordes/units/Demilich.cfg:60
-msgid "magical"
-msgstr "魔法攻击"
+"漫步于黑暗道路脱离的肉体的力量, 这是代价: 给予他灵魂和躯壳, 以及时间的流失, "
+"他成为真正的不死---他人的恐怖."
 
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
@@ -871,16 +828,12 @@ msgstr ""
 "他们的身体，慢慢成为不死族。随着时间的流逝，他们将成为真正的不死族并被其他人"
 "所惧怕。"
 
-#: The_Dark_Hordes/units/Dread_Lich.cfg:32
-#: The_Dark_Hordes/units/Demilich.cfg:43
-msgid "touch"
-msgstr "触碰"
-
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr ""
+msgstr "远古巫妖"
 
 #: The_Dark_Hordes/units/Dread_Lich.cfg:29
+#, fuzzy
 msgid ""
 "At long last, Ha'atel has paid the ultimate sacrifice for the dark arts into "
 "which he has delved, and has, himself, entered into undeath. At the apex of "
@@ -889,16 +842,20 @@ msgid ""
 "immortality will have to provide consolation for what he has lost in his "
 "quest to achieve them."
 msgstr ""
+"长时间以后, Ha'atel得到了永恒的牺牲---自己成为了不死之灵. 力量的一切, 铸就这"
+"个巫妖, 恐怖或者说荒芜的化身. 他的超越与不朽给了他存在并继续征讨的理由."
 
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr ""
+msgstr "启蒙"
 
 #: The_Dark_Hordes/units/Initiate.cfg:24
 msgid ""
 "Dabbling in the Death Magic, this young Ha'atel's lust for power has "
 "weakened him to the point where he is too weak to attack in regular combat."
 msgstr ""
+"年轻的Ha'atel由于其对力量的贪求, 而注入了对黑暗魔法的渴望, 最终导致了他在常规"
+"战斗中的虚弱."
 
 #: The_Dark_Hordes/utils/intro.cfg:5
 msgid ""
@@ -938,3 +895,33 @@ msgid ""
 msgstr ""
 "但是命运弄人。这艘船被突然的风暴围绕并被分裂。分开了两兄弟并把他们冲上岸。这"
 "就是黑暗氏族的崛起。"
+
+#~ msgid "baneblade"
+#~ msgstr "涂毒剑"
+
+#~ msgid "blade"
+#~ msgstr "剑"
+
+#~ msgid "drain"
+#~ msgstr "吸取"
+
+#~ msgid "wail"
+#~ msgstr "哀嚎"
+
+#~ msgid "cold"
+#~ msgstr "冰"
+
+#~ msgid "staff"
+#~ msgstr "棍"
+
+#~ msgid "impact"
+#~ msgstr "冲击"
+
+#~ msgid "magic"
+#~ msgstr "魔力"
+
+#~ msgid "magical"
+#~ msgstr "魔法攻击"
+
+#~ msgid "touch"
+#~ msgstr "触碰"
