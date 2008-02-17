@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-04 20:08+0200\n"
+"POT-Creation-Date: 2007-12-02 15:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -630,26 +630,6 @@ msgstr ""
 msgid "Dark Spirits are messengers and bearers of tidings from the realm of the dead, and a force of dread in this world. Happily, they have rarely been seen in Wesnoth."
 msgstr ""
 
-#: ./The_Dark_Hordes/units/Dark_Spirit.cfg:39
-msgid "baneblade"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Dark_Spirit.cfg:40
-msgid "blade"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Dark_Spirit.cfg:44 ./The_Dark_Hordes/units/Dread_Lich.cfg:37 ./The_Dark_Hordes/units/Demilich.cfg:48
-msgid "drain"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Dark_Spirit.cfg:55
-msgid "wail"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Dark_Spirit.cfg:56 ./The_Dark_Hordes/units/Deathmaster.cfg:60 ./The_Dark_Hordes/units/Dread_Lich.cfg:33 ./The_Dark_Hordes/units/Dread_Lich.cfg:48 ./The_Dark_Hordes/units/Initiate.cfg:45 ./The_Dark_Hordes/units/Demilich.cfg:44 ./The_Dark_Hordes/units/Demilich.cfg:59
-msgid "cold"
-msgstr ""
-
 #: ./The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
 msgstr ""
@@ -658,32 +638,12 @@ msgstr ""
 msgid "His wanderings on a dark path have given him power normally not granted to mortals, but with a terrible cost: the undead that he gave his soul to are gradually claiming his mortal shell too, and with time, he will be a true undead and a terror to all that lives."
 msgstr ""
 
-#: ./The_Dark_Hordes/units/Deathmaster.cfg:39
-msgid "staff"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Deathmaster.cfg:40
-msgid "impact"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Deathmaster.cfg:59 ./The_Dark_Hordes/units/Dread_Lich.cfg:47 ./The_Dark_Hordes/units/Initiate.cfg:44 ./The_Dark_Hordes/units/Demilich.cfg:58
-msgid "magic"
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Deathmaster.cfg:61 ./The_Dark_Hordes/units/Dread_Lich.cfg:49 ./The_Dark_Hordes/units/Initiate.cfg:46 ./The_Dark_Hordes/units/Demilich.cfg:60
-msgid "magical"
-msgstr ""
-
 #: ./The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
 msgstr ""
 
 #: ./The_Dark_Hordes/units/Demilich.cfg:28
 msgid "After too much time dabbling with forbidden magics and dark arts, these magi have begun to pay a heavy price. Demiliches have started losing their bodies, becoming undead themselves. With time, they may become fully undead, and feared by all alike."
-msgstr ""
-
-#: ./The_Dark_Hordes/units/Dread_Lich.cfg:32 ./The_Dark_Hordes/units/Demilich.cfg:43
-msgid "touch"
 msgstr ""
 
 #: ./The_Dark_Hordes/units/Dread_Lich.cfg:4
